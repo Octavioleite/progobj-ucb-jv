@@ -28,6 +28,7 @@ public class exercicio1 {
         case '/':
         resultado = numeroUm / numeroDois;    
         System.out.print("O resultado da divisão é: " + resultado);
+        break;
         default:
         System.out.print("Operação inválida");
             break;
