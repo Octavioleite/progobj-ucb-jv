@@ -41,4 +41,4 @@ public class exercicio2 {
     public static float convertefahcels(int Fahrenheit, float constante) {
         return ((Fahrenheit - 32) / constante);
     }
-}
+} //
