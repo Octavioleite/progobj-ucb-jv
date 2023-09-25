@@ -3,8 +3,8 @@ package atividade5.estoque;
 public class FrutasGeral {
     
     protected String nome;
-    protected int codigo;
-    protected int quantidade;
+    protected Integer codigo;
+    protected Integer quantidade;
     
 
 
