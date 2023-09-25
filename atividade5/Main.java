@@ -1,5 +1,6 @@
 package atividade5;
 import java.util.Scanner;
+//Arthur Alves de Sousa, Jéssica Laís da Mota Freira, Jorge Igor Barros Gomes, Marcus Vinícius Costa da Silva, Octávio Leite Neto
 
 import atividade5.estoque.Banana;
 import atividade5.estoque.FrutasGeral;

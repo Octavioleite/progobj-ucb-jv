@@ -1,5 +1,4 @@
 package heranca;
-//Arthur Alves de Sousa, Jéssica Laís da Mota Freira, Jorge Igor Barros Gomes, Marcus Vinícius Costa da Silva, Octávio Leite Neto
 import heranca.empresa.Diretor;
 import heranca.empresa.Engenheiro;
 import heranca.empresa.Gerente;
