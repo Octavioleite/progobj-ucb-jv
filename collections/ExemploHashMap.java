@@ -9,7 +9,7 @@ public class ExemploHashMap {
         capitais.put("França", "Paris");
         capitais.put("Japão", "Tóquio");
 
-        
+         
 
         for (String chave : capitais.keySet()){
             System.out.println(chave);
