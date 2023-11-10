@@ -14,9 +14,11 @@ public class PessoaTest{
     }
 
     @Test
-    void dizerOlaTest(){
+    void dizerOlaTest() {
         assertEquals(pessoa.dizerOla(), "Olá, maven!");
+        System.out.println("OLÁ MARVEM");
     }
+    
 
     
 
